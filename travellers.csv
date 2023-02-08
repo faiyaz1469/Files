@@ -1,7 +1,7 @@
-Name,Quantity,Total Cost,Title
-John Doe,4,2000,Saint Martin Tour
-Faiyaz Rashid,2,1400,Dhaka Tour
-Tasfiat Khan,7,8000,Bandarban Tour
-Sayem Hasan,8,7500,Maynamati Tour
-Zahid Jewel,1,1500,Barisal Tour
-Nasim Sunny,6,4000,Kuakata Tour
+Name,Description,Total Cost,Title
+John Doe,Cox's Bazar Tour,2000,Saint Martin Tour
+Faiyaz Rashid,Rangamati Tour,1400,Dhaka Tour
+Tasfiat Khan,Khagrachori Tour,8000,Bandarban Tour
+Sayem Hasan,Sylhet Tour,7500,Maynamati Tour
+Zahid Jewel,Jessore Tour,1500,Barisal Tour
+Nasim Sunny,Comilla Day Tour,4000,Kuakata Tour
